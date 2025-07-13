@@ -1,6 +1,6 @@
 ---
 
-## Usage With OpenAI and without OpenAI
+## Model With OpenAI and without OpenAI
 
 This project does **not use OpenAI API by default**. Instead, it uses `sentence-transformers`, a free and open-source alternative for generating embeddings locally. This makes it suitable for students, researchers, and developers who do not have access to OpenAI API keys or want to avoid additional costs.
 Although, I have created 2 separate projects and folders which use the above mentioned APIs
